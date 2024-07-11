@@ -30,7 +30,7 @@ In today's dynamic transportation landscape, managing highway tickets efficientl
 
 ## API Documentation
 Postman collection JSON file is included in the main directory of the repository. This collection contains all API endpoints with detailed requests and responses.
-- Postman Documentation Link -
+- Postman Documentation Link - https://documenter.getpostman.com/view/28127032/2sA3e4A9Qc
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
